@@ -1,0 +1,42 @@
+span{
+    font-size: 25px;
+    color: brown;
+}
+img{
+    text-align: center;
+    height: 500px;
+    margin: 50px 480px;
+    /* width: 100vw; */
+    border-radius: 20px;
+    /* float: right; */
+    
+}
+.profile{
+    /* margin: 20px 0; */
+    background-color: rgb(90, 101, 170);
+    margin: 0%;
+    
+}
+h3{
+    font-size: 55px;
+    font-family: cursive;
+    font-weight: bold;
+}
+span .henry{
+    font-size: 55px;
+}
+#bio{
+    font-family: cursive;
+    background-color: rgb(90, 101, 170);
+}
+p{
+    font-family: cursive;
+    color: white;
+}
+#updateButton{
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    
+}
